@@ -27,3 +27,6 @@ This makes the project a practical example of:
 • 	Cheerio (HTML scraping)
 • 	node-fetch
 • 	dotenv
+
+
+![SC_Profiler_Screenshot](https://github.com/user-attachments/assets/3b5246ee-65c5-4488-8a56-4d45e4b513cb)
