@@ -4,16 +4,15 @@ A simple Discord bot with automated web scraping to retrieve a player's profile 
 SCProfiler is a Discord slash‑command bot built in Node.js that retrieves Star Citizen (RSI) profile and organization information by scraping public RSI citizen pages.
 It integrates Discord.js, Cheerio, and node-fetch to collect and format data directly inside Discord.
 
-✨ Features
-• 	 — Fetches:
-• 	RSI profile link
-• 	Main organization (name, SID, type)
-• 	All affiliated organizations (name, SID, rank, link)
-• 	Validates whether the RSI profile exists
-• 	Clean, formatted Discord responses
-• 	Graceful error handling
-• 	 command for controlled bot termination
-• 	Uses environment variables for secure token handling
+Fetches:
+• 	RSI profile link 
+• 	Main organization (name, SID, type) 
+• 	All affiliated organizations (name, SID, rank, link) 
+• 	Validates whether the RSI profile exists 
+• 	Clean, formatted Discord responses 
+• 	Graceful error handling 
+• 	Command for controlled bot termination 
+• 	Uses environment variables for secure token handling 
 
 This makes the project a practical example of:
 • 	Web scraping
